@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoyYiZhou
 - 👀 I’m interested in python.
 - 🌱 I’m currently learning python, c++ and HTML.
-- 📫 E-mail me at Little_Joy20081007@outlook.com.But I read my e-mail not hardly.
+- 📫 E-mail me at Little_Joy20081007@outlook.com.But I read your e-mail not hardly.
 - I'm from China.
 - Can you speak Chinese?
 - I can speak a little English.
